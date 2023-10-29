@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/chukotka-forever/SHRP_TWRP-RMX3461'
+        default: 'https://github.com/chukotka-forever/twrp-13'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'main'
+        default: 'twrp-13'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
