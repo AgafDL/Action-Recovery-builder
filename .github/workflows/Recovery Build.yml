@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/chukotka-forever/twrp-13'
+        default: 'https://github.com/chukotka-forever/twrp-12'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'twrp-13'
+        default: 'twrp-12'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
